@@ -63,7 +63,7 @@ jobs:
                 "cmdb_ci": {"name": "3Com DMI Agent"},
                 "business_service": {"name": "3Com DMI Agent Service"},
                 "assignment_group": {"name": "Change Management"},
-                "assigned_to": {"name": "AppDev Consulting"},
+                "assigned_to": {"name": "Change Manager"},
                 "priority": "2",
                 "comments": "This is a sample pipeline script to be added in your change step",
                 "work_notes": "Update this to work_notes"
