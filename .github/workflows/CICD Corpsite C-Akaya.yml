@@ -62,6 +62,8 @@ jobs:
                 "requested_by": {"name": "DevOps System"},
                 "cmdb_ci": {"name": "*CAROL-IBM"},
                 "business_service": {"name": "3Com DMI Agent Service"},
+                "start_date": "2024-09-29 22:30:32",
+                "end_date": "2024-09-29 22:39:32,
                 "assignment_group": {"name": "Change Management"},
                 "assigned_to": {"name": "Change Manager"},
                 "priority": "2",
