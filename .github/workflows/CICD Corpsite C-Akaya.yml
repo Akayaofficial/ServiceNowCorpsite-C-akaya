@@ -60,7 +60,7 @@ jobs:
             {
               "attributes": {
                 "requested_by": {"name": "DevOps System"},
-                "cmdb_ci": {"name": "ServiceNow ITSM"},
+                "cmdb_ci": {"name": "*CAROL-IBM"},
                 "business_service": {"name": "3Com DMI Agent Service"},
                 "assignment_group": {"name": "Change Management"},
                 "assigned_to": {"name": "Change Manager"},
